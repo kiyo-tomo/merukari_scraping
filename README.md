@@ -1,0 +1,2 @@
+# merukari_scraping
+メルカリの最安値をスクレイピングする
